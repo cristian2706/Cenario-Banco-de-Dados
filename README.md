@@ -1,3 +1,3 @@
 # Cenario-Banco-de-Dados
-SIN1A
+SIN1A n/
 Alunos:Cristian Rudof Hofmeister
