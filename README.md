@@ -7,4 +7,4 @@ Titulo
 
 Text
 
--Estas perguntas devem ser respondidas pelo modelo ?
+-Estas perguntas devem ser respondidas pelo modelo:
