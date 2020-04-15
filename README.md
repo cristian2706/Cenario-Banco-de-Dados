@@ -2,7 +2,7 @@
 
 Componentes: Cristian Rudolf Hofmeister
 
-![](images/ANALISIS-CLINICOS-SALUD-HUMANA-ECOS-DE-ARAGON10.jpg)
+![picture](ANALISIS-CLINICOS-SALUD-HUMANA-ECOS-DE-ARAGON10.jpg)
 
 TEMA : Empresa- Laboratório de análises clinicas
 
