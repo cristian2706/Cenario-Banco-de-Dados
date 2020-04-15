@@ -18,7 +18,7 @@ A adminsitração do laboratorio e feita pelo setor de atendimento.
 - O analista tem que se relacionar com apenas uma amostra e a amostra prescisa necessariamente se relacionar com apenas um analista.
 - O paciente pode ter mais de um agendamento por dia mas um agendamento não pode ter mais de um paciente.
 - O analista tem que se relacionar com apenas um laboratório enquanto as amostras podem ser de outras origens.
-- O atendente atende vários pacientes por dia e o paciente pode ser atendido por varios atendentes por atendimento.
+- O atendente atende vários pacientes por dia e o paciente pode ser atendido por varios atendentes por dia.
 
 # O banco de dados deve ser capaz de responder às seguintes perguntas:
 
