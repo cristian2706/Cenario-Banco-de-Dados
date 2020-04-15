@@ -12,6 +12,8 @@ Na empresa existem dois setores, um de atendimento responsável por colher os da
 E outro setor responsável por coletar diretamente o material do paciente e realizar a análise do mesmo.
 Alguns dos materiais para análises podem ser entregues diretamente pelo paciente ao setor de atendimento que repassará o mesmo para os profissionais responsáveis pela análise.
 
+A adminsitração do laboratorio e feita pelo setor de atendimento.
+
 - Cada paciente pode ser relacionado com varias amostras enquanto as amostras podem se relacionar apenas uma vez com o paciente.
 - O analista tem que se relacionar com uma amostra mas a amostra não prescisa necessariamente de relacionar com apenas um analista.
 
