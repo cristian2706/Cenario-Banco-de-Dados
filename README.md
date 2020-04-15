@@ -22,8 +22,10 @@ A adminsitração do laboratorio e feita pelo setor de atendimento.
 
 # O banco de dados deve ser capaz de responder às seguintes perguntas:
 
+
 - Quais são as amostras coletadas por paciente ?
-- Quem realizou a analaise de determinadada amostra ?
-- Quantas analises foram realizadas em determinado perido de tempo ?
-- Qual é o tipo mais frequente de analises ?
-- A amostra foi retirada diretamente do paciente ou entregue para analise pelo setor de atendimento ?
+- Quem realizou a análise de determinada amostra ?
+- Quantas análises foram realizadas em determinado perido de tempo ?
+- Qual é o tipo mais frequente de análises ?
+- A amostra foi retirada diretamente do paciente ou entregue para análise pelo setor de atendimento ?
+
