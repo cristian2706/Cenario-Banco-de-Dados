@@ -1,10 +1,15 @@
-# Cenario-Banco-de-Dados
-SIN1A 
+# Turma: SI1N-A
 
--Alunos: Cristian Rudolf Hofmeister
+Componentes: Cristian Rudolf Hofmeister
 
-Titulo
+TEMA : 
 
-Text
 
--Estas perguntas devem ser respondidas pelo modelo:
+
+
+
+
+
+
+
+O banco de dados deve ser capaz de responder às seguintes perguntas:
