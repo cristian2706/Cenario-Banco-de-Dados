@@ -16,9 +16,6 @@ A adminsitração do laboratorio e feita pelo setor de atendimento.
 
 - Cada paciente pode ser relacionado com varias amostras enquanto as amostras podem se relacionar apenas uma vez com o paciente.
 - O analista tem que se relacionar com uma amostra mas a amostra não prescisa necessariamente se relacionar com apenas um analista.
--.
--.
--.
 
 
 O banco de dados deve ser capaz de responder às seguintes perguntas:
