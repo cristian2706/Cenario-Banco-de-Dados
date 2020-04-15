@@ -6,8 +6,10 @@ Componentes: Cristian Rudolf Hofmeister
 
 TEMA : Empresa- Laboratório de análises clinicas
 
-A empresa presta serviços de análises clinicas feitas através do estudo de material biológico colhido de pacientes, como por exemplo, sangue, urina, saliva, fezes, esperma, fragmentos de tecido e pus. A coleta pode ser feita no próprio laboratório onde são feitas as análises ou em locais como um hospital, clínica, postos de coleta ou no domicílio e local de trabalho do paciente.
+A empresa presta serviços de análises clínicas feitas através do estudo de material biológico colhido de pacientes, como por exemplo, sangue, urina, saliva, fezes, esperma, fragmentos de tecido e pus. A coleta pode ser feita no próprio laboratório onde são feitas as análises ou em locais como um hospital, clínica, ou domicilio.
 
+Na empresa existem tresores, um de atendimento responsável por colher os dados do paciente agendar visitas e entregar os resultados.
+E outro setor responsável por coletar diretamente o material dos pacientes.
 
 
 
