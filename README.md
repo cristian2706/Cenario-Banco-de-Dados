@@ -30,5 +30,6 @@ A adminsitração do laboratorio e feita pelo setor de atendimento.
 - A amostra foi retirada diretamente do paciente ou entregue para análise pelo setor de atendimento ?
 
 
-
+#Formas Normais 
+FN1, FN2 e FN3
 
