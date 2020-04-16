@@ -29,8 +29,6 @@ A adminsitração do laboratorio e feita pelo setor de atendimento.
 - Qual é o tipo mais frequente de análises ?
 - A amostra foi retirada diretamente do paciente ou entregue para análise pelo setor de atendimento ?
 
-# Formas Normais
 
-FN1, FN2 e FN3
 
 
