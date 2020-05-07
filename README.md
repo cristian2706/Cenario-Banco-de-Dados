@@ -35,5 +35,5 @@ FN1: Atributos de uma entidade são únicamente absolutos não havendo a possibi
 
 FN2: Atributos são necessariamente características dependentes da entidade em que estão inseridads.
 
-FN3: Atributos de UID não podem depende de outros atributos dentro de uma mesma entidade.
+FN3: Atributos de UID não podem depender de outros atributos dentro de uma mesma entidade.
 
