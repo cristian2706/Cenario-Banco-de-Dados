@@ -24,12 +24,16 @@ A adminsitração do laboratorio e feita pelo setor de atendimento.
 
 
 - Quais são as amostras coletadas por paciente ?
-- Quem realizou a análise de determinada amostra ?
+- O atendente realizou quantos atendimentos ?
 - Quantas análises foram realizadas em determinado perido de tempo ?
 - Qual é o tipo mais frequente de análises ?
 - A amostra foi retirada diretamente do paciente ou entregue para análise pelo setor de atendimento ?
 
 
 # Formas Normais 
-FN1, FN2 e FN3
+FN1: Atributos de uma entidade são únicamente absolutos não havendo a possibilidade de gerar atributos adicionais ou características a determinado atributo.
+
+FN2: Atributos são necessariamente características dependentes da entidade em que estão inseridads.
+
+FN3: Atributos de identidade única não podem depende de outros atributos dentro de uma mesma entidade.
 
